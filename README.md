@@ -139,11 +139,6 @@ Based on the evaluations, the top models were:
 🤝 Contributions
 We welcome contributions! Whether it's improving model performance, adding visualizations, or cleaning the data pipeline:
 
-Fork the repo
-
-Create a feature branch
-
-Submit a pull request
 
 ### Note 
 This project is a snip of a larger accademic project including data processing , description Analysis , features selection and many details . Feel free to contact for the whole project. 
